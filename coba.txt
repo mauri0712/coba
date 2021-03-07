@@ -2,3 +2,5 @@ coba
 -membuat file
 -membuat coomit
 -mencloning
+-mengpush
+-mengpull
