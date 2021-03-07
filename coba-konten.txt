@@ -3,6 +3,7 @@ rencana konten coba
 -javascript
   *ES6
   *framework javascirpt
+-struktur data dasar
 -php frameworks
 -interview
 -vlogs
