@@ -3,7 +3,6 @@ rencana konten coba
 -javascript
   *ES6
   *framework javascirpt
-    ^vue
     ^react
 -struktur data dasar
 -php frameworks
@@ -11,3 +10,7 @@ rencana konten coba
 -interview
 -vlogs
 -python
+-vanila.js
+-mysql
+-java
+-c++
