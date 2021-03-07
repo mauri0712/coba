@@ -3,9 +3,11 @@ rencana konten coba
 -javascript
   *ES6
   *framework javascirpt
-   ^angular
-   ^react
+    ^vue
+    ^react
+-struktur data dasar
 -php frameworks
- ^laravel
+  ^laravel
 -interview
 -vlogs
+-python
