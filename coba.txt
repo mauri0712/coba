@@ -1,0 +1,4 @@
+coba
+-membuat file
+-membuat coomit
+-mencloning
