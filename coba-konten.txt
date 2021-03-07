@@ -4,6 +4,7 @@ rencana konten coba
   *ES6
   *framework javascirpt
     ^vue
+    ^react
 -struktur data dasar
 -php frameworks
   ^laravel
